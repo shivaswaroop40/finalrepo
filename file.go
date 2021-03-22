@@ -1,5 +1,7 @@
 package main
 
+package cmd
+
 import "fmt"
 
 func main() {
