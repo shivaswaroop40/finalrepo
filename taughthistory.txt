@@ -1,0 +1,165 @@
+  100  git clone https://github.com/shivaswaroop40/demo-repo.git
+  101  git clone https://github.com/shivaswaroop40/demo-repo.git
+  102  git config --global user.name "shivaswaroop40"
+  103  git config --global user.email "shivaswaroop40@gmail.com"
+  104  ssh-keygen -t rsa
+  105  ssh-keygen -t rsa
+  106  ssh-keygen -t rsa
+  107  clear
+  108  cd .ssh
+  109  ls
+  110  cat id_rsa.pub
+  111  cd ..
+  112  ls
+  113  cd demo-repo/
+  114  ls
+  115  go main.go
+  116  go run main.go
+  117  git clone https://github.com/shivaswaroop40/b3d2.git
+  118  git clone https://github.com/shivaswaroop40/b3d2.git
+  119  git clone https://github.com/shivaswaroop40/b3d2.git
+  120  git clone https://github.com/shivaswaroop40/b3d2.git
+  121  git clone git@github.com:shivaswaroop40/b3d2.git
+  122  git  add hrllowold.cpp
+  123  git commit -m "This is the first commit"
+  124  git push
+  125  git  add hrllowold.cpp
+  126  git commit
+  127  git push
+  128  git add hrllowold.cpp
+  129  git commit -m "this is the third commit"
+  130  git push
+  131  git log --oneline
+  132  git rebase -i HEAD~3
+  133  git rebase -i HEAD~3
+  134  git log --oneline
+  135  git push
+  136  git push origin +main
+  137  git checkout -b  branch2
+  138  git branch
+  139  git push
+  140  git push --set-upstream origin branch2
+  141  git checkout main
+  142  git checkout branch2
+  143  git checkout main
+  144  git checkout branch2
+  145  git add hrllowold.cpp
+  146  git commit -m
+  147  git commit -m "this commit is on branch"
+  148  git push
+  149  git checkout main
+  150  git merge branch2
+  151  git push
+  152  git add hrllowold.cpp
+  153  git commit -m "this is on main"
+  154  git checkout branch2
+  155  git add hrllowold.cpp
+  156  git commit -m "this is again on branch"
+  157  git push
+  158  git checkout main
+  159  git merge branch2
+  160  git checkout branch2
+  161  git merge main
+  162  git add hrllowold.cpp
+  163  git commit -m "agian on branch"
+  164  git push
+  165  history
+  166  git checkout main
+  167  git add hrllowold.cpp
+  168  git commit -m "this on main"
+  169  git checkout branch2
+  170  git merge main
+  171  history
+  172  git add hrllowold.cpp
+  173  git commit -m "on brnach"
+  174  git push
+  175  git checkout main
+  176  git pus
+  177  git push
+  178  history
+  179  git checkout branch2
+  180  git merge main
+  181  git checkout main
+  182  git stash
+  183  git stash pop
+  184  git stash
+  185  git stash pop
+  186  git restore --staged
+  187  git restore --staged hrllowold.cpp
+  188  git restore  hrllowold.cpp
+  189  history
+  190  git checkout -b newbranch3
+  191  git merge main
+  192  git push
+  193  git push --set-upstream origin newbranch3
+  194  git add hrllowold.cpp
+  195  git commit -m "new branch
+  196  git commit -m "new branch"
+  197  git checkout main
+  198  git add hrllowold.cpp
+  199  git commit -m "from main"
+  200  git merge newbranch3
+  201  git checkout newbranch3
+  202  git merge main
+  203  git checkout newbranch2
+  204  git checkout branch2
+  205  git merge main
+  206  git push origin +main
+  207  git add hrllowold.cpp
+  208  git commit -m "this is new commit"
+  209  git push
+  210  git checkout main
+  211  git status
+  212  git checkout newbranch3
+  213  git push
+  214  git add hrllowold.cpp
+  215  git commit -m "branch 3 commmit"
+  216  git log --oneline
+  217  git reset HEAD~2
+  218  git log --oneline
+  219  git revert 6caf5c7
+  220  git stash
+  221  git revert 6caf5c7
+  222  git commit -m "reverted"
+  223  git stash pop
+  224  git puah
+  225  git push
+  226  git push origin +main
+  227  git checkout main
+  228  git add hrllowold.cpp
+  229  git commit -m "reverted back"
+  230  git push
+  231  git stash
+  232  git checkout main
+  233  git add hrllowold.cpp
+  234  git commit -m "new change"
+  235  git push
+  236  git merge newbranch3
+  237  git merge newbranch3
+  238  git add hrllowold.cpp
+  239  git commit -m "changed"
+  240  git push
+  241  git checkout branch2
+  242  git merge main
+  243  git push origin +main
+  244  git add hrllowold.cpp
+  245  git commit -m "new"
+  246  git pusg
+  247  git push
+  248  git merge main
+  249  git checkout newbranch3
+  250  git pull
+  251  git add hrllowold.cpp
+  252  git commit -m "merged"
+  253  git push
+  254  git merge main
+  255  git push origin +newbranch3
+  256  history
+  257  git branch -d newbranch3
+  258  git checkout main
+  259  git merge main
+  260  git checkout -f main
+  261  git branch -d newbranch3
+  262  git push
+  263  git push origin +main
+  264  history
