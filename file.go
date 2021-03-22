@@ -10,5 +10,6 @@ func main() {
 	fmt.Printf("Hello world for the second time from new branch")
 	fmt.Printf("This is branched update")
 	fmt.Printf("This is main update")
+	fmt.Printf("This is fine")
 
 }
