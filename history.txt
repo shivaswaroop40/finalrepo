@@ -1,0 +1,329 @@
+    1  git version
+    2  git commit -m "second change"
+    3  exit
+    4  git version
+    5  pwd
+    6  git commit -m "second change"
+    7  exit
+    8  exit
+    9  git commit -m "second change"
+   10  exit
+   11  pwd
+   12  ls
+   13  sed
+   14  pwd
+   15  cd..
+   16  cd ..
+   17  pwd
+   18  cd Training
+   19  git clone https://github.com/stalincisco/demo-repo1.git
+   20  git config --global user.name "joel-varghese"
+   21  ls
+   22  git config --global user.email joelvar17@outlook.com   
+   23  ssh-keygen -t rsa
+   24  cd ..
+   25  cd .ssh
+   26  pwd
+   27  cd Training
+   28  cd .ssh
+   29  cd .ssh
+   30  cd id_r
+   31  pwd
+   32  ls
+   33  cd .ssh
+   34  ssh-keygen -t rsa
+   35  ssh-keygen -t rsa
+   36  ssh-keygen -t rsa
+   37  git clone https://github.com/joel-varghese/ICS-demo.git
+   38  git config --global user.name "joel-varghese"
+   39  git clone https://github.com/joel-varghese/ICS-demo.git
+   40  ssh-keygen -t rsa
+   41  git clone https://github.com/stalincisco/demo-repo1.git
+   42  git clone https://github.com/joel-varghese/ICS-demo.git
+   43  pwd
+   44  cd ..
+   45  cd ..
+   46  cd ..
+   47  pwd
+   48  ssh-keygen -t rsa
+   49  ssh-keygen -t rsa
+   50  ssh-keygen -t rsa
+   51  pwd
+   52  cd C
+   53  cd Users/
+   54  cd Training/
+   55  ls
+   56  cd ..
+   57  cd C
+   58  cd Users
+   59  ls
+   60  pwd
+   61  git clone https://github.com/joel-varghese/Golang.git
+   62  git clone https://github.com/joel-varghese/Golang.git
+   63  git config --global user.name "joel-varghese"
+   64  git config --global user.email joelvar17@outlook.com
+   65  git pull
+   66  cd C
+   67  ls
+   68  cd Golang/
+   69  git pull
+   70  ls
+   71  git add main.go
+   72  git commit -m "many changes"
+   73  git add main.go
+   74  git commit -m "many changes"
+   75  git commit -m "many changes"
+   76  cat main.go
+   77  vi + main.go
+   78  vi + main.go
+   79  vim + main.go
+   80  pwd
+   81  git commit -m "second change"
+   82  git add main.go
+   83  git push
+   84  git push
+   85  git add main.go
+   86  git commit -m "third change"
+   87  git push
+   88  git clone https://github.com/joel-varghese/Golang.git
+   89  ls
+   90  git pull
+   91  ls
+   92  go run main.go
+   93  git add main.go
+   94  git commit -m "change again"
+   95  git push
+   96  git add main.go
+   97  exit
+   98  clear
+   99  pwd
+  100  git clone https://github.com/shivaswaroop40/demo-repo.git
+  101  git clone https://github.com/shivaswaroop40/demo-repo.git
+  102  git config --global user.name "shivaswaroop40"
+  103  git config --global user.email "shivaswaroop40@gmail.com"
+  104  ssh-keygen -t rsa
+  105  ssh-keygen -t rsa
+  106  ssh-keygen -t rsa
+  107  clear
+  108  cd .ssh
+  109  ls
+  110  cat id_rsa.pub
+  111  cd ..
+  112  ls
+  113  cd demo-repo/
+  114  ls
+  115  go main.go
+  116  go run main.go
+  117  git clone https://github.com/shivaswaroop40/b3d2.git
+  118  git clone https://github.com/shivaswaroop40/b3d2.git
+  119  git clone https://github.com/shivaswaroop40/b3d2.git
+  120  git clone https://github.com/shivaswaroop40/b3d2.git
+  121  git clone git@github.com:shivaswaroop40/b3d2.git
+  122  git add file.go
+  123  git commit -m "first commit"
+  124  git push
+  125  git add file.go
+  126  git commit -m "second commit"
+  127  git push
+  128  git add file.go
+  129  git commit -m "third commit"
+  130  git push
+  131  git log --oneline
+  132  git rebase -i HEAD~3
+  133  git log --oneline
+  134  git push origin +main
+  135  git branch -b newbranch
+  136  git checkout -b newbranch
+  137  git add file.go
+  138  git commit -m "this is first commit"
+  139  git push
+  140  git push --set-upstream origin newbranch
+  141  git add file.go
+  142  git commit "this is first commit:
+  143  git commit "this is first commit"
+  144  git commit -m "this is first commit"
+  145  git add file.go
+  146  git commit -m "this is first commit after changing branch"
+  147  git pudh
+  148  git push
+  149  ls
+  150  git add file.go
+  151  git commit -m "this is second commit after changing branch"
+  152  git push
+  153  git checkout main
+  154  git merge newbranch
+  155  git push
+  156  git branch
+  157  git checkout newbranch
+  158  git branch
+  159  git merge main
+  160  git checkout -b newbranch2
+  161  git push
+  162  git push --set-upstream origin newbranch2
+  163  git add file.go
+  164  git commit
+  165  git push
+  166  git add file.go
+  167  git commit
+  168  git push
+  169  git merge main
+  170  git checkout branch1
+  171  git checkout newbranch
+  172  git merge newbranch2
+  173  git push
+  174  git add file.go
+  175  git checkout newbranch2
+  176  git checkout newbranch1
+  177  git checkout newbranch
+  178  git merge newbranch2
+  179  git checkout main
+  180  git checkout main
+  181  git merge newbranch
+  182  git push
+  183  git checkout newbranch
+  184  ls
+  185  git merge main
+  186  git checkout main
+  187  git add file.go
+  188  git commit
+  189  git push
+  190  git checkout newbranch
+  191  git merge main
+  192  git push
+  193  history
+  194  git checkout main
+  195  git add file.go
+  196  git commit -m "this is to try"
+  197  git merge newbranch
+  198  git push
+  199  git merge newbranch
+  200  git checout newbranch
+  201  git checkout newbranch
+  202  git add file.go
+  203  git commit -m "hi"
+  204  git push
+  205  git checkout main
+  206  git merge newbranch
+  207  git push
+  208  git clone https://www.github.com/trivikram1999/working
+  209  cd working/
+  210  ls
+  211  cat first.html
+  212  cp first.html C:\Users\Training\finalrepo
+  213  cd ..
+  214  ls
+  215  vi second.html
+  216  cp first.html C:\Users\Training\finalrepo\second.html
+  217  cd working/
+  218  cp first.html C:\Users\Training\finalrepo\second.html
+  219  cd ..
+  220  ls
+  221  cat second.html
+  222  vi second.html
+  223  cd ..
+  224  ls
+  225  cd finalrepo/
+  226  cd working
+  227  mv first.html C:\Users\Training\finalrepo
+  228  cd ..
+  229  ls
+  230  mv first.html C:/Users/Training/finalrepo
+  231  cd working
+  232  mv first.html C:/Users/Training/finalrepo
+  233  cd ..
+  234  ls
+  235  git clone https://www.github.com/trivikram1999/working
+  236  cd working/
+  237  ls
+  238  mv first.html C:/Users/Training/finalrepo
+  239  cd  ..
+  240  ls
+  241  cat first.html
+  242  add first.html
+  243  git add first.html
+  244  git commit -m "new file"
+  245  git push
+  246  git status
+  247  git stash
+  248  git stash list
+  249  git stash pop
+  250  git checkout newbranch
+  251  git stash
+  252  git checkout newbranch
+  253  git checkout main
+  254  git stash pop
+  255  man git init
+  256  man init
+  257  init
+  258  man git init
+  259  git init
+  260  git push
+  261  git remote add
+  262  git remote add -f
+  263* git remote add  https://github.com/shivaswaroop40/finalrepo.git
+  264  git clone -b newbranch https://github.com/shivaswaroop40/finalrepo.git
+  265  git clone -b newbranch3 https://github.com/shivaswaroop40/finalrepo.git
+  266  rm newbranch
+  267  s
+  268  ls
+  269  rm finalrepo/
+  270  rmdir finalrepo/
+  271  cd finalrepo/
+  272  ls
+  273  rm file.go
+  274  rm README.md
+  275  cd ..
+  276  rmdir finalrepo/
+  277  rmdir finalrepo/
+  278  cd finalrepo/
+  279  ls
+  280  ls
+  281  cd .
+  282  cd ..
+  283  rmdir finalrepo/
+  284  rmdir -rf finalrepo/
+  285  rm -rf finalrepo/
+  286  ls
+  287  git clone -b newbranch3 https://github.com/shivaswaroop40/finalrepo.git
+  288  cd finalrepo/
+  289  ls
+  290  cat file.go
+  291  cd ..
+  292  cd finalrepo/
+  293  rm file.go
+  294  cd ..
+  295  rm -rf  finalrepo/
+  296  ls
+  297  git branch
+  298  git checkout -b bhk
+  299  git branch
+  300   git branch -d bhk
+  301  git checkout main
+  302   git branch -d bhk
+  303  git push
+  304  get fetch
+  305  git fetch
+  306  hell
+  307  hello
+  308  whoami
+  309  which ls
+  310  which bash
+  311  which bin
+  312  why
+  313  whyami
+  314  git push origin -d newbranch3
+  315  git branch -d newbranch3
+  316  git branch
+  317  git checkout -b newbranch 3
+  318  cd ..
+  319  cd finalrepo/
+  320  git checkout -b newbranch3
+  321  git push
+  322  git push --set-upstream origin newbranch3
+  323  git push origin -d newbranch3
+  324  git branch
+  325  git branch -d newbranch3
+  326  git checkout main
+  327  git branch
+  328  git branch -d newbranch3
+  329  history
